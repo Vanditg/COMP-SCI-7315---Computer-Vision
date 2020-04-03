@@ -5,7 +5,7 @@ This repository contains assignment, workshops and their in-depth reports with s
 [Assignment - 1](https://github.com/Vanditg/COMP-SCI-7315---Computer-Vision/tree/master/Assignement%20-%201/Problem) <<<--->>> [Solution](https://github.com/Vanditg/COMP-SCI-7315---Computer-Vision/tree/master/Assignement%20-%201/Solution)  
 
 ## Easy Navigation for Report. 
-[Assignment - 1 Report] (https://github.com/Vanditg/COMP-SCI-7315---Computer-Vision/tree/master/Assignement%20-%201/Report) 
+[Assignment - 1 Report](https://github.com/Vanditg/COMP-SCI-7315---Computer-Vision/tree/master/Assignement%20-%201/Report) 
 
 ## More Detailed Navigation. 
 ---------- Under Construction ---------- 
