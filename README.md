@@ -11,3 +11,4 @@ This repository contains assignment, workshops and their in-depth reports with s
 
 ## Feedback for Assignments  
 [Assignment - 1 Marks](https://github.com/Vanditg/COMP-SCI-7315---Computer-Vision/blob/master/Assignment%20-%201/Feedback/Assignment%201_%20Patch%20Match.pdf) <<<--->>> [General Feedback](https://github.com/Vanditg/COMP-SCI-7315---Computer-Vision/blob/master/Assignment%20-%201/Feedback/w3-studentguide.pdf)  
+[Assignment - 2 Marks](https://github.com/Vanditg/COMP-SCI-7315---Computer-Vision/tree/master/Assignment%20-%202/Feedback) -->> Poor documentation, thus leading to bad score :(  
