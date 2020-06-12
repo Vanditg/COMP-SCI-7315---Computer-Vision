@@ -1,0 +1,51 @@
+------
+Neurons 
+------
+Unit = 5	Loss = 0.3181	Acc = 90.88%
+Unit = 10	Loss = 0.3266	Acc = 90.51%
+Unit = 20	Loss = 0.2881	Acc = 90.88%
+Unit = 50	Loss = 0.2647	Acc = 91.97%
+Unit = 100	Loss = 0.2571	Acc = 92.34%
+Unit = 500	Loss = 0.2297	Acc = 92.70%
+Unit = 1000	Loss = 0.2304	Acc = 92.34%
+------
+Layer
+------
+Unit = 5	Loss = 0.6120	Acc = 72.63%
+Unit = 10	Loss = 0.6111	Acc = 68.25%
+Unit = 20	Loss = 0.6013	Acc = 72.26%
+Unit = 50	Loss = 0.3806	Acc = 88.69%
+Unit = 100	Loss = 0.3814	Acc = 86.86%
+Unit = 500	Loss = 0.3304	Acc = 85.77%
+Unit = 1000	Loss = 0.3476	Acc = 87.59%
+------
+ReLu
+------
+Unit = 5	Loss = 0.0902	Acc = 97.45%	epoch = 500		Almost 480-500
+Unit = 10	Loss = 0.0625	Acc = 97.81%	epoch = 500		Almost 370-400
+Unit = 50	Loss = 0.0622	Acc = 97.81%	epoch = 500		Almost 410-440
+------
+ReLu-Layer
+------
+Unit = 5	Loss = 0.0373	Acc = 98.91%	epoch = 500		Almost 150-200
+Unit = 10	Loss = 0.0397	Acc = 98.54%	epoch = 500		Almost 220-260
+Unit = 100	Loss = 0.0172	Acc = 99.64%	epoch = 500		Almost 300-350
+Unit = 200	Loss = 0.01809	Acc = 99.64%	epoch = 500		Almost 340-380
+------
+Learning-Rate
+------
+Unit = 5	Loss = 0.6533	Acc = 68.98%	Learning-Rate = 0.0001
+Unit = 5	Loss = 0.4911	Acc = 83.94%	Learning-Rate = 0.001
+Unit = 5	Loss = 0.0695	Acc = 97.81%	Learning-Rate = 0.01
+Unit = 5	Loss = 0.0185	Acc = 99.64%	Learning-Rate = 0.05
+Unit = 5	Loss = 0.0246	Acc = 98.54%	Learning-Rate = 0.1
+------
+Epoch
+------
+Unit = 50	Loss = 0.0397	Acc = 97.81%	Learning-Rate = 0.1	Stop = 350-400
+Unit = 50	Loss = 0.0003	Acc = 100%		Learning-Rate = 0.1	Stop = 70-90	Layer = one more hidden layer
+Unit = 50	Loss = 0.0095	Acc = 100%		Learning-Rate = 0.01	Stop = 170-200	Layer = two more hidden layer
+----------
+Best Model
+----------
+Unit = 200	Learning-Rate = 0.01	Epochs = 400	activation = ReLu	Loss = 0.0239	Acc = 99.64%	Layer = One More Hidden Layer
