@@ -1,4 +1,4 @@
-# COMP-SCI-7315---Computer-Vision
+# COMP-SCI-7315---Computer-Vision [Distinction]  
 This repository contains assignment, workshops and their in-depth reports with some codes for one of my postgraduate subjects of [COMP SCI 7315 - Computer Vision](https://www.adelaide.edu.au/course-outlines/109781/1/sem-1/). The programming language is Python and report is written in [LateX](https://www.latex-project.org/) and/or [MS-Word](https://products.office.com/en-au/word). 
 
 ## Easy Navigation for Assignment.  
@@ -13,7 +13,8 @@ This repository contains assignment, workshops and their in-depth reports with s
 
 ## Feedback for Assignments  
 [Assignment - 1 Marks](https://github.com/Vanditg/COMP-SCI-7315---Computer-Vision/blob/master/Assignment%20-%201/Feedback/Assignment%201_%20Patch%20Match.pdf) <<<--->>> [General Feedback](https://github.com/Vanditg/COMP-SCI-7315---Computer-Vision/blob/master/Assignment%20-%201/Feedback/w3-studentguide.pdf)  
-[Assignment - 2 Marks](https://github.com/Vanditg/COMP-SCI-7315---Computer-Vision/tree/master/Assignment%20-%202/Feedback) -->> [General Feedback]()    
+[Assignment - 2 Marks](https://github.com/Vanditg/COMP-SCI-7315---Computer-Vision/blob/master/Assignment%20-%202/Feedback/Assignment%202_%203D%20reconstruction.pdf) <<<--->> [General Feedback](https://github.com/Vanditg/COMP-SCI-7315---Computer-Vision/blob/master/Assignment%20-%202/Feedback/A2_StudentGuide.pdf)  
+[Assignment - 3 Marks](https://github.com/Vanditg/COMP-SCI-7315---Computer-Vision/blob/master/Assignment%20-%203/Feedback/Assignment%203_%20Deep%20learning.pdf) <<<--->>> Full Marks!:)  
 
 ## Useful files for Assignment - 3
 [Reading Material on Backpropogation](https://github.com/Vanditg/COMP-SCI-7315---Computer-Vision/blob/master/Assignment%20-%203/Problem/reading_material.pdf)  
