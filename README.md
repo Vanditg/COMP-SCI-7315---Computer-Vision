@@ -20,3 +20,6 @@ This repository contains assignment, workshops and their in-depth reports with s
 [Reading Material on Backpropogation](https://github.com/Vanditg/COMP-SCI-7315---Computer-Vision/blob/master/Assignment%20-%203/Problem/reading_material.pdf)  
 [Google Colab Setup Instructions](https://github.com/Vanditg/COMP-SCI-7315---Computer-Vision/blob/master/Assignment%20-%203/Problem/setup_instructions.pdf)  
 [Assignment - 3 Checklist](https://github.com/Vanditg/COMP-SCI-7315---Computer-Vision/blob/master/Assignment%20-%203/Problem/A3_checklist.pdf)  
+
+## Lecture Slides and Videos  
+Please send a request [Here](https://shorturl.at/cwyBV)  
