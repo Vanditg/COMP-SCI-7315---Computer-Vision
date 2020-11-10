@@ -22,4 +22,4 @@ This repository contains assignment, workshops and their in-depth reports with s
 [Assignment - 3 Checklist](https://github.com/Vanditg/COMP-SCI-7315---Computer-Vision/blob/master/Assignment%20-%203/Problem/A3_checklist.pdf)  
 
 ## Lecture Slides and Videos  
-Please send a request [Here](https://shorturl.at/cwyBV)  
+Please send a request [Here](https://shorturl.at/GN246)  
